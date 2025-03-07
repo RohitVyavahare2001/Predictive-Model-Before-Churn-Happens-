@@ -28,12 +28,13 @@ This project builds a predictive model that identifies customers at risk of chur
 ## Dashboard Screenshots
 
 Here are some snapshots of the dashboard:
-
-### Overview Page  
+![1](https://github.com/user-attachments/assets/ab058f79-3b10-4c54-8802-0e1396642a1f)
+![3](https://github.com/user-attachments/assets/df70ab90-1625-46b5-afb4-47c3f8c9d61a)
+![2](https://github.com/user-attachments/assets/b25e4aca-2081-4a15-9243-16a2d152a788)
 
 
 ### Video Demo  
-[![Watch the Demo](https://img.youtube.com/vi/K190d7XJCwU/0.jpg)](https://youtu.be/K190d7XJCwU)
+[! (https://img.youtube.com/vi/K190d7XJCwU/0.jpg)](https://youtu.be/K190d7XJCwU)
 
 ## How to Run Locally
 Follow these steps to set up and run the project.
