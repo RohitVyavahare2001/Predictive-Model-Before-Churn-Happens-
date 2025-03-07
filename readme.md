@@ -34,7 +34,8 @@ Here are some snapshots of the dashboard:
 
 
 ### Video Demo  
-[! (https://img.youtube.com/vi/K190d7XJCwU/0.jpg)](https://youtu.be/K190d7XJCwU)
+[Watch the Demo](https://youtu.be/K190d7XJCwU)
+
 
 ## How to Run Locally
 Follow these steps to set up and run the project.
